@@ -1,0 +1,11 @@
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\bin\Debug\SGM_Student_Details.exe
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\bin\Debug\SGM_Student_Details.pdb
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.frm_SGM_Student_Login.resources
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.Properties.Resources.resources
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.csproj.GenerateResource.Cache
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.exe
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.pdb
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.frm_Add_New_Student.resources
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.csprojResolveAssemblyReference.cache
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\obj\x86\Debug\SGM_Student_Details.frm_View_All_Student_List.resources
+C:\C#ASSIGNMENTS\SGM_Student_Details\SGM_Student_Details\bin\Debug\SGM_Student_Details.exe.config
