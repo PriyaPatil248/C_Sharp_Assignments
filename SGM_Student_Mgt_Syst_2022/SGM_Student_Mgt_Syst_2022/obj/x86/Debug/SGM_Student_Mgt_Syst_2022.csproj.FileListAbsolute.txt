@@ -1,0 +1,12 @@
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\bin\Debug\SGM_Student_Mgt_Syst_2022.exe
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\bin\Debug\SGM_Student_Mgt_Syst_2022.pdb
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.frm_Login.resources
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.Properties.Resources.resources
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.csproj.GenerateResource.Cache
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.exe
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.pdb
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.csprojResolveAssemblyReference.cache
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.frm_Add_New_Student.resources
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.frm_View_All_Student_List.resources
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\bin\Debug\SGM_Student_Mgt_Syst_2022.exe.config
+C:\C#ASSIGNMENTS\SGM_Student_Mgt_Syst_2022\SGM_Student_Mgt_Syst_2022\obj\x86\Debug\SGM_Student_Mgt_Syst_2022.frm_Search_Student.resources
