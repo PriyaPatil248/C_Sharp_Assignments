@@ -1,0 +1,12 @@
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\bin\Debug\College_Student_Mgt_Syst.exe
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\bin\Debug\College_Student_Mgt_Syst.pdb
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.frm_Login.resources
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.frm_Add_New_Student.resources
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.frm_View_Student_Details.resources
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.Properties.Resources.resources
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.csproj.GenerateResource.Cache
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.exe
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.pdb
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.frm_Search_Student_Details.resources
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\bin\Debug\College_Student_Mgt_Syst.exe.config
+C:\C#ASSIGNMENTS\College_Student_Mgt_Syst\College_Student_Mgt_Syst\obj\x86\Debug\College_Student_Mgt_Syst.csprojResolveAssemblyReference.cache
