@@ -44,6 +44,7 @@
             this.btn_Refresh = new System.Windows.Forms.Button();
             this.btn_Add_New_Student = new System.Windows.Forms.Button();
             this.btn_View_Student_List = new System.Windows.Forms.Button();
+            this.btn_Search = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl_Search_Student_Details
@@ -121,31 +122,37 @@
             // tb_Roll_No
             // 
             this.tb_Roll_No.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_Roll_No.Location = new System.Drawing.Point(435, 93);
+            this.tb_Roll_No.Location = new System.Drawing.Point(335, 93);
+            this.tb_Roll_No.MaxLength = 10;
             this.tb_Roll_No.Name = "tb_Roll_No";
             this.tb_Roll_No.Size = new System.Drawing.Size(291, 35);
             this.tb_Roll_No.TabIndex = 1;
+            this.tb_Roll_No.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Only_Numric);
             // 
             // tb_Name
             // 
             this.tb_Name.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_Name.Location = new System.Drawing.Point(434, 169);
+            this.tb_Name.Location = new System.Drawing.Point(334, 169);
+            this.tb_Name.MaxLength = 80;
             this.tb_Name.Name = "tb_Name";
             this.tb_Name.Size = new System.Drawing.Size(291, 35);
             this.tb_Name.TabIndex = 2;
+            this.tb_Name.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Only_Text);
             // 
             // tb_Mobile_No
             // 
             this.tb_Mobile_No.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_Mobile_No.Location = new System.Drawing.Point(435, 313);
+            this.tb_Mobile_No.Location = new System.Drawing.Point(335, 313);
+            this.tb_Mobile_No.MaxLength = 10;
             this.tb_Mobile_No.Name = "tb_Mobile_No";
             this.tb_Mobile_No.Size = new System.Drawing.Size(291, 35);
             this.tb_Mobile_No.TabIndex = 4;
+            this.tb_Mobile_No.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Only_Numric);
             // 
             // dtp_DOB
             // 
             this.dtp_DOB.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dtp_DOB.Location = new System.Drawing.Point(436, 249);
+            this.dtp_DOB.Location = new System.Drawing.Point(336, 249);
             this.dtp_DOB.MaxDate = new System.DateTime(2005, 1, 1, 0, 0, 0, 0);
             this.dtp_DOB.Name = "dtp_DOB";
             this.dtp_DOB.Size = new System.Drawing.Size(289, 35);
@@ -165,7 +172,7 @@
             "MSC CS",
             "MCS",
             "MCA"});
-            this.cmb_Course.Location = new System.Drawing.Point(436, 382);
+            this.cmb_Course.Location = new System.Drawing.Point(336, 382);
             this.cmb_Course.MaxLength = 50;
             this.cmb_Course.Name = "cmb_Course";
             this.cmb_Course.Size = new System.Drawing.Size(290, 37);
@@ -197,6 +204,7 @@
             this.btn_Refresh.TabIndex = 6;
             this.btn_Refresh.Text = "Refresh";
             this.btn_Refresh.UseVisualStyleBackColor = false;
+            this.btn_Refresh.Click += new System.EventHandler(this.btn_Refresh_Click);
             // 
             // btn_Add_New_Student
             // 
@@ -223,6 +231,19 @@
             this.btn_View_Student_List.UseVisualStyleBackColor = false;
             this.btn_View_Student_List.Click += new System.EventHandler(this.btn_View_Student_List_Click);
             // 
+            // btn_Search
+            // 
+            this.btn_Search.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btn_Search.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Search.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btn_Search.Location = new System.Drawing.Point(656, 90);
+            this.btn_Search.Name = "btn_Search";
+            this.btn_Search.Size = new System.Drawing.Size(107, 42);
+            this.btn_Search.TabIndex = 10;
+            this.btn_Search.Text = "Search";
+            this.btn_Search.UseVisualStyleBackColor = false;
+            this.btn_Search.Click += new System.EventHandler(this.btn_Search_Click);
+            // 
             // frm_Search_Student
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -230,6 +251,7 @@
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.ClientSize = new System.Drawing.Size(784, 501);
             this.ControlBox = false;
+            this.Controls.Add(this.btn_Search);
             this.Controls.Add(this.btn_View_Student_List);
             this.Controls.Add(this.btn_Add_New_Student);
             this.Controls.Add(this.btn_Refresh);
@@ -271,5 +293,6 @@
         private System.Windows.Forms.Button btn_Refresh;
         private System.Windows.Forms.Button btn_Add_New_Student;
         private System.Windows.Forms.Button btn_View_Student_List;
+        private System.Windows.Forms.Button btn_Search;
     }
 }

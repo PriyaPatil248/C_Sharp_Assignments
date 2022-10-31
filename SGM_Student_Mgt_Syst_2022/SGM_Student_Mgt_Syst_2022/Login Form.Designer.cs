@@ -35,6 +35,7 @@
             this.tb_Password = new System.Windows.Forms.TextBox();
             this.btn_Submit = new System.Windows.Forms.Button();
             this.lbl_Error = new System.Windows.Forms.Label();
+            this.lbl_Login_Form = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lbl_Username
@@ -43,7 +44,7 @@
             this.lbl_Username.BackColor = System.Drawing.SystemColors.Menu;
             this.lbl_Username.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_Username.ForeColor = System.Drawing.Color.Navy;
-            this.lbl_Username.Location = new System.Drawing.Point(82, 92);
+            this.lbl_Username.Location = new System.Drawing.Point(82, 143);
             this.lbl_Username.Name = "lbl_Username";
             this.lbl_Username.Size = new System.Drawing.Size(174, 39);
             this.lbl_Username.TabIndex = 0;
@@ -64,7 +65,7 @@
             // tb_Username
             // 
             this.tb_Username.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tb_Username.Location = new System.Drawing.Point(408, 89);
+            this.tb_Username.Location = new System.Drawing.Point(408, 143);
             this.tb_Username.Name = "tb_Username";
             this.tb_Username.Size = new System.Drawing.Size(278, 45);
             this.tb_Username.TabIndex = 1;
@@ -106,12 +107,25 @@
             this.lbl_Error.TabIndex = 4;
             this.lbl_Error.Text = "Enter Username and Password";
             // 
+            // lbl_Login_Form
+            // 
+            this.lbl_Login_Form.AutoSize = true;
+            this.lbl_Login_Form.BackColor = System.Drawing.Color.Ivory;
+            this.lbl_Login_Form.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_Login_Form.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.lbl_Login_Form.Location = new System.Drawing.Point(265, 41);
+            this.lbl_Login_Form.Name = "lbl_Login_Form";
+            this.lbl_Login_Form.Size = new System.Drawing.Size(222, 46);
+            this.lbl_Login_Form.TabIndex = 5;
+            this.lbl_Login_Form.Text = "Login Form";
+            // 
             // frm_Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LavenderBlush;
             this.ClientSize = new System.Drawing.Size(784, 501);
+            this.Controls.Add(this.lbl_Login_Form);
             this.Controls.Add(this.lbl_Error);
             this.Controls.Add(this.btn_Submit);
             this.Controls.Add(this.tb_Password);
@@ -138,6 +152,7 @@
         private System.Windows.Forms.TextBox tb_Password;
         private System.Windows.Forms.Button btn_Submit;
         private System.Windows.Forms.Label lbl_Error;
+        private System.Windows.Forms.Label lbl_Login_Form;
     }
 }
 
