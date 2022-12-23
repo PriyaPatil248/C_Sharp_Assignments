@@ -1,0 +1,8 @@
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\bin\Debug\Selection_Controls.exe
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\bin\Debug\Selection_Controls.pdb
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.frm_Selection_Controls.resources
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.Properties.Resources.resources
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.csproj.GenerateResource.Cache
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.exe
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.pdb
+D:\C#ASSIGNMENTS\Selection_Controls\Selection_Controls\obj\x86\Debug\Selection_Controls.csprojResolveAssemblyReference.cache
