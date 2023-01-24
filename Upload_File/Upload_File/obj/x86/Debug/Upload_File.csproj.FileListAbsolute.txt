@@ -1,0 +1,8 @@
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\bin\Debug\Upload_File.exe
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\bin\Debug\Upload_File.pdb
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.frm_Upload_File.resources
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.Properties.Resources.resources
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.csproj.GenerateResource.Cache
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.exe
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.pdb
+D:\C#ASSIGNMENTS\Upload_File\Upload_File\obj\x86\Debug\Upload_File.csprojResolveAssemblyReference.cache
