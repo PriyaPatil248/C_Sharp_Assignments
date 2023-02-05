@@ -1,0 +1,13 @@
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.frm_Login.resources
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.Properties.Resources.resources
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.csproj.GenerateResource.Cache
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\bin\Debug\Windows_Application.exe
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\bin\Debug\Windows_Application.pdb
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.exe
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.pdb
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\bin\Debug\Windows_Application_Database.mdf
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\bin\Debug\Windows_Application_Database_log.ldf
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\bin\Debug\Windows_Application.exe.config
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.csprojResolveAssemblyReference.cache
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.frm_Customer_Resistration.resources
+D:\C#ASSIGNMENTS\Windows_Application\Windows_Application\obj\x86\Debug\Windows_Application.frm_Main_Form.resources
