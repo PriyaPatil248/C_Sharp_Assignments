@@ -1,0 +1,7 @@
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\bin\Debug\File_Upload_Demo.exe
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\bin\Debug\File_Upload_Demo.pdb
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\obj\x86\Debug\File_Upload_Demo.frm_File_Upload.resources
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\obj\x86\Debug\File_Upload_Demo.Properties.Resources.resources
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\obj\x86\Debug\File_Upload_Demo.csproj.GenerateResource.Cache
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\obj\x86\Debug\File_Upload_Demo.exe
+D:\C#ASSIGNMENTS\File_Upload_Demo\File_Upload_Demo\obj\x86\Debug\File_Upload_Demo.pdb
